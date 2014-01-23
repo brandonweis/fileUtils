@@ -1,0 +1,10 @@
+{
+    "name" : "RWDGrunt",
+    "version" : "0.1.0",
+    "author" : "Brandon Weis",
+    "private" : true,
+
+    "devDependencies" : {
+        "grunt" :                   "~0.4.0"
+    } 
+}
